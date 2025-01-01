@@ -3,15 +3,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=Hello%2C+my+name+is+Quang+Do.;I'm+a+Software+Engineer." alt="My Name is Quang Do. I'm a Software Engineer"/>
 </a>
 
-### About me
+## About me
 
 - 💼 Full-Stack Software Engineer at University of Colorado Boulder
 
 - ❤️ I love writing Java/SpringBoot and improving application reliability on OpenShift/Kubernetes
 
-<br/>
 
-### :hammer_and_wrench: Main Skills
+## :hammer_and_wrench: Main Skills
 
 <p>
   <a href="https://skillicons.dev">
@@ -20,9 +19,8 @@
   </a>
 </p>
 
-<br/>
 
-### My GitHub Stats
+## My GitHub Stats
 
 <table width="100%">
     <tr>
@@ -35,7 +33,7 @@
     </tr>
 </table>
 
-<h3 align="left">Connect with me</h3>
+## Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/qdo" target="blank">
     <img src="https://github.com/user-attachments/assets/cecf6bb6-e116-4b1b-a2d2-6feb12c769b7" alt="qdo" align="center" height="75" width="75">
