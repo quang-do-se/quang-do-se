@@ -39,8 +39,3 @@
     <img src="https://github.com/user-attachments/assets/cecf6bb6-e116-4b1b-a2d2-6feb12c769b7" alt="qdo" align="center" height="75" width="75">
   </a>
 </p>
-
-
-
-
-
