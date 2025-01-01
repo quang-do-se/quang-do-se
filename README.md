@@ -9,6 +9,7 @@
 
 - ❤️ I love writing Java/SpringBoot and improving application reliability on OpenShift/Kubernetes
 
+<br/>
 
 ### :hammer_and_wrench: Main Skills
 
@@ -19,7 +20,9 @@
   </a>
 </p>
 
+<br/>
 
+### My GitHub Stats
 
 <table width="100%">
     <tr>
