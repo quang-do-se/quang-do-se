@@ -10,7 +10,7 @@
 - ❤️ I love writing Java/SpringBoot and improving application reliability on OpenShift/Kubernetes
 
 
-### :hammer_and_wrench: Main Skills
+### Main Skills
 
 <p>
   <a href="https://skillicons.dev">
