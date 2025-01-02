@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=3,4,6,8,12,14,15,17,18,19,20,24,26,27,28,30" alt="header"/>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=Hello%2C+my+name+is+Quang+Do.;I'm+a+Software+Engineer." alt="My Name is Quang Do. I'm a Software Engineer"/>
 </a>
