@@ -7,7 +7,7 @@
 
 - 💼 Full-Stack Software Engineer at University of Colorado Boulder
 
-- ❤️ I love writing Java/SpringBoot and improving application reliability on OpenShift/Kubernetes
+- ❤️ I'm passionate about building robust Java/Spring Boot applications and enhancing their reliability and performance on OpenShift/Kubernetes
 
 
 ### Main Skills
